@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Overpass:wght@400;700&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,400;1,800;1,900&display=swap");
+
+body {
+    background-color: #f4f4f4;
+    height: 2500px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Raleway", sans-serif; */
+
+}
+
+.wrapper {
+    /* display: flex; */
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.profile {
+    /* padding: 10px; */
+    position: fixed;
+    max-width: 350px;
+    /* text-align: center; */
+}
+.profile .position p {
+    text-align: center;
+} 
+.dp img {
+    border-radius: 50%;
+    width: 250px;
+}
+.details {
+    margin-left: 420px;
+}
+h2 {
+    margin: 10px 0;
+}
+
+
+/* TEMPLATE FOR STAGE  */
+.stage {
+    display: flex;
+    margin: 20px 0;
+}
+.stage span {
+    font-weight: 600;
+}
+.logo {
+    margin: 0 20px;
+    height: 60px;
+    width: 60px;
+}
+.main-topic p {
+    font-weight: 600;
+}
+.duration , .location {
+    color: rgba(0, 0, 0, 0.76);
+}
+.location {
+    margin-bottom: 10px;
+}
