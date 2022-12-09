@@ -158,4 +158,7 @@ footer {
     li {
         margin-bottom: 14px;
     }
+    .dp img {
+        width: 150px;
+    }
 }
