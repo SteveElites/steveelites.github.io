@@ -24,9 +24,6 @@ body {
     position: fixed;
     max-width: 350px;
     /* text-align: center; */
-}
-.profile .position p {
-    text-align: center;
 } 
 .dp img {
     border-radius: 50%;
@@ -103,4 +100,8 @@ footer {
     display: flex;
     justify-content: space-between;
 
+}
+.social a {
+    text-decoration: none;
+    margin-right: 15px;
 }
