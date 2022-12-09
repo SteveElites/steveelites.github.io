@@ -155,4 +155,7 @@ footer {
     footer div {
         margin-top: 8px;
     }
+    li {
+        margin-bottom: 14px;
+    }
 }
