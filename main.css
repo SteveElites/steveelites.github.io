@@ -25,6 +25,15 @@ body {
     max-width: 350px;
     /* text-align: center; */
 } 
+.profile h1 {
+    background-color: rgb(57, 46, 107);
+    color: white;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .dp img {
     border-radius: 50%;
     width: 250px;
@@ -33,7 +42,7 @@ body {
     margin-left: 420px;
 }
 h2 {
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 
