@@ -2,7 +2,7 @@
 
 body {
     background-color: #f4f4f4;
-    height: 2500px;
+    /* height: 2500px; */
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     scroll-behavior: smooth;
@@ -116,6 +116,9 @@ footer {
 .social a {
     text-decoration: none;
     margin-right: 15px;
+}
+.youtube {
+    margin-top: 100px;
 }
 
 
