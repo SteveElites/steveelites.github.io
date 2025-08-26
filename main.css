@@ -84,10 +84,16 @@ h2 {
     color: blue;
 }
 .news1{
-    border-left: 5px solid red;
+    border-left: 5px solid black;
 }
 .news2{
+    border-left: 5px solid yellowgreen;
+}
+.news3{
     border-left: 5px solid blue;
+}
+.news4{
+    border-left: 5px solid red;
 }
 .quote {
     font-size: 30px;
